@@ -34,6 +34,20 @@ On top of this core benefit, `Linux` also follows in the footsteps of `Unix` whi
 8. Avoid captive user interfaces.
 9. Make every program a filter.
 
+Below is a summary of what these principles mean when excercised in practice:
+
+1. Smaller programs are easier to download, install, run, and understand
+2. A program that does one thing can be more easily polished to do it well
+3. Building a prototype quickly allows for more experimentation and feedback
+4. Choosing portability allows your program to be used by a larger audience
+5. Storing data in flat text makes it easier for other programs to use that data
+6. Using other peoples code (and offering your code to be used) allows work to build and not be siloed
+7. Shell scripts are easy for people to open, modify and understand and will run on any system
+8. Capturing the user in an interface breaks their flow and makes it harder for them to use
+9. Making every program a filter allows simple, small programs to be chained together to accomplish complex tasks
+
+Once you dig into `Linux` you will see these principles in action everywhere throughout the system. From the way `cat`, `grep`, `sed` and `more` function to the way that devices are handled as interrogatable files under`/dev`.
+
 ## Getting Started with `Linux`
 
 There are many wayts to get started with Linux today, but one of the easier ways is to spin up a distribution of `Linux` like `Ubuntu` in a `Virtual Machine` like one provided by `VirtualBox`.  A good tutorial on how to do this can be found [here](https://www.makeuseof.com/install-ubuntu-virtualbox/)
