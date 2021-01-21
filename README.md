@@ -4,7 +4,7 @@
 
 This repository serves as a very basic introduction to the `Linux` operating system, and what differentiates `Linux` from other common operating systems.  While this should be a good introduction to the concept of Linux it really is only the beginning, with the topic stretching very deep and wide due to all of the applications `Linux` can find itself used for.
 
-## So, what is an "operating system"?
+## Ok then, what is an "operating system"?
 
 Well, an operating system is pretty much exactly what it sounds like, it's a software system that helps you operate your computer.  Below is the textbook definition courtesy of [Merriam-Webster](https://www.merriam-webster.com/dictionary/operating%20system):
 
