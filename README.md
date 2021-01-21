@@ -14,10 +14,10 @@ the processing of programs (as by assigning storage space in memory and controll
 and output functions)
 ```
 
-What that basically means is that the operating system on your computer is the traffic cop that controls how the applications that you run on top of the operating system are allowed to interact with your hardware.  The core part that makes an "operating system" an "operating system" is the `kernel` which along with drivers and kernel modules is responsible for interacting with system hardware and doling out resources to each application.  Below is a diagram from [Wikimedia](https://en.wikipedia.org/wiki/Kernel_(operating_system)#/media/File:Kernel_Layout.svg) showing this relationship:
+What that basically means is that the operating system on your computer is the traffic cop that controls how the applications that you run on top of the operating system are allowed to interact with your hardware.  The core part that makes an "operating system" an "operating system" is the `kernel` which along with `drivers` and `kernel modules` is responsible for interacting with system hardware and doling out resources to each application you'd like to run.  Each OS has their own bespoke `kernel` with `Windows` currently utilizing the [NT Kernel](https://en.wikipedia.org/wiki/Architecture_of_Windows_NT), and `Linux` using the obviously named [Linux Kernel](https://www.kernel.org/).  Below is a diagram from [Wikimedia](https://en.wikipedia.org/wiki/Kernel_(operating_system)#/media/File:Kernel_Layout.svg) showing the relationship the `kernel` plays:
 
 ![Kernel Layout](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/1920px-Kernel_Layout.svg.png)
 
-## Thats cool... But why `Linux`?
+## Thats cool... But why `Linux` or the `Linux Kernel`?
 
 ## Getting Started with `Linux`
