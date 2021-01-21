@@ -8,7 +8,7 @@ This repository serves as a very basic introduction to the `Linux` operating sys
 
 Well, an operating system is pretty much exactly what it sounds like, it's a system that helps you operate your computer.  Below is the textbook definition courtesy of [Merriam-Webster](https://www.merriam-webster.com/dictionary/operating%20system):
 
-```md
+```yaml
 operating system (noun): software that controls the operation of a computer and directs
 the processing of programs (as by assigning storage space in memory and controlling input
 and output functions)
