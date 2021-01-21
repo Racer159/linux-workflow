@@ -24,6 +24,7 @@ The main concept that really separates `Linux` from other operating systems like
 
 On top of this core benefit, `Linux` also follows in the footsteps of `Unix` which has a particular philosophy that can be useful for various applications. Mike Gancarz summarized this philosophy in 1994 as the following 9 principles:
 
+```yaml
 1. Small is beautiful.
 2. Make each program do one thing well.
 3. Build a prototype as soon as possible.
@@ -33,9 +34,11 @@ On top of this core benefit, `Linux` also follows in the footsteps of `Unix` whi
 7. Use shell scripts to increase leverage and portability.
 8. Avoid captive user interfaces.
 9. Make every program a filter.
+```
 
 Below is a summary of what these principles mean when excercised in practice:
 
+```yaml
 1. Smaller programs are easier to download, install, run, and understand
 2. A program that does one thing can be more easily polished to do it well
 3. Building a prototype quickly allows for more experimentation and feedback
@@ -45,6 +48,7 @@ Below is a summary of what these principles mean when excercised in practice:
 7. Shell scripts are easy for people to open, modify and understand and will run on any system
 8. Capturing the user in an interface breaks their flow and makes it harder for them to use
 9. Making every program a filter allows simple, small programs to be chained together to accomplish complex tasks
+```
 
 Once you dig into `Linux` you will see these principles in action everywhere throughout the system. From the way `cat`, `grep`, `sed` and `more` function to the way that devices are handled as interrogatable files under`/dev`.
 
