@@ -2,7 +2,9 @@
 
 ## So what is this repository?
 
-This repository serves as a very basic introduction to the `Linux` operating system, and what differentiates `Linux` from other common operating systems.  While this should be a good introduction to the concept of Linux it really is only the beginning, with the topic stretching very deep and wide due to all of the applications `Linux` can find itself used for.
+This repository serves as a very basic introduction to the `Linux` operating system, and what differentiates `Linux` from other common operating systems.  While this should be a good introduction to the concept of Linux it really is only the beginning, with the topic stretching very deep and wide due to all of the applications `Linux` can find itself used for.  You can find some more jumping off points in the accompanying documentation as well:
+
+- [Terminal User Interfaces (TUIs)](TERMINAL.md)
 
 ## Ok then, what is an "operating system"?
 
